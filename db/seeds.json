@@ -3,12 +3,11 @@
     {
       "id": 1,
       "username": "Woody",
-      "password": "ABCD",
       "recipies": [{
                   "servings" : 10,
                   "name": "Apple Pie",
-                  "ingredients": [{"ingname": "Apples", "quant" : "1", "unit": "cup", "stepnum": "1"}],
-                  "steps": [{"stepname" : "Mix", "time": "1", "unitTime": "min", "temperature" : "30", "unitTemp": "min", "description": "Mix Ingredients"}],
+                  "ingredients": [{"ingname": "Apples"}],
+                  "steps": [{"description": "Mix Ingredients...."}],
                   "date": "04/19/21",
                   "likes": 4,
                   "foodpic": ""
