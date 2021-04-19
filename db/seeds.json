@@ -3,18 +3,16 @@
     {
       "id": 1,
       "username": "Woody",
-      "recipies": [{
-                  "servings" : 10,
+      "profilepic": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
+      "recipes": [{
                   "name": "Apple Pie",
-                  "ingredients": [{"ingname": "Apples"}],
-                  "steps": [{"description": "Mix Ingredients...."}],
-                  "date": "04/19/21",
                   "likes": 4,
-                  "foodpic": ""
-                }
-    ]
-      ,
-      "profilepic": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+                  "servings" : 10,
+                  "foodpic": "",
+                  "ingredients": ["Apples"],
+                  "steps": ["Mix Ingredients...."],
+                  "date": "04/19/21"
+                }]
     }
   ]
 }
