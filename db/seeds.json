@@ -4,47 +4,51 @@
       "id": 1,
       "username": "Woody",
       "profilepic": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "recipes": [{
-                  "name": "Apple Pie",
-                  "likes": 4,
-                  "servings" : 10,
-                  "foodpic": "https://i.ytimg.com/vi/RoHWiA6pogg/maxresdefault.jpg",
-                  "ingredients": ["Apples", "Flour"],
-                  "steps": ["Mix Ingredients....", "Preheat Oven"],
-                  "date": "04/19/21"
-                },
-              {
-                "name": "Pecan Pie",
-                "likes": 15,
-                "servings" : 4,
-                "foodpic": "https://www.healthygffamily.com/wp-content/uploads/2018/11/595A0FC4-3815-40A7-A70C-FAFB3EBC4174.jpg",
-                "ingredients": ["Pecan", "Flour"],
-                "steps": ["Mix Ingredients....", "Preheat Oven"],
-                "date": "04/10/21"
-              }]
     },
     {
       "id": 2,
       "username": "Buzz",
       "profilepic": "https://i5.walmartimages.com/asr/11123c59-f8b1-4483-bb77-c31a7b2a9b75_1.dd0c2d86b361071a7a810bd23af41f22.jpeg",
-      "recipes": [{
-                  "name": "Apple Pie",
-                  "likes": 4,
-                  "servings" : 10,
-                  "foodpic": "https://i.ytimg.com/vi/RoHWiA6pogg/maxresdefault.jpg",
-                  "ingredients": ["Apples", "Flour"],
-                  "steps": ["Mix Ingredients....", "Preheat Oven"],
-                  "date": "04/19/21"
-                },
-              {
-                "name": "Pecan Pie",
-                "likes": 15,
-                "servings" : 4,
-                "foodpic": "https://www.healthygffamily.com/wp-content/uploads/2018/11/595A0FC4-3815-40A7-A70C-FAFB3EBC4174.jpg",
-                "ingredients": ["Pecan", "Flour"],
-                "steps": ["Mix Ingredients....", "Preheat Oven"],
-                "date": "04/10/21"
-              }]
+  
     }
-  ]
+  ],
+  "recipes": [
+    {
+    "userId": 1,
+    "name": "Apple Pie",
+    "likes": 4,
+    "servings" : 10,
+    "foodpic": "https://i.ytimg.com/vi/RoHWiA6pogg/maxresdefault.jpg",
+    "ingredients": ["Apples", "Flour"],
+    "steps": ["Mix Ingredients....", "Preheat Oven"],
+    "date": "04/19/21"
+  },
+{ "userId": 1,
+  "name": "Pecan Pie",
+  "likes": 15,
+  "servings" : 4,
+  "foodpic": "https://www.healthygffamily.com/wp-content/uploads/2018/11/595A0FC4-3815-40A7-A70C-FAFB3EBC4174.jpg",
+  "ingredients": ["Pecan", "Flour"],
+  "steps": ["Mix Ingredients....", "Preheat Oven"],
+  "date": "04/10/21"
+},
+{  "userId": 2,
+  "name": "Apple Pie",
+  "likes": 4,
+  "servings" : 10,
+  "foodpic": "https://i.ytimg.com/vi/RoHWiA6pogg/maxresdefault.jpg",
+  "ingredients": ["Apples", "Flour"],
+  "steps": ["Mix Ingredients....", "Preheat Oven"],
+  "date": "04/19/21"
+},
+{
+"userId": 2,
+"name": "Pecan Pie",
+"likes": 15,
+"servings" : 4,
+"foodpic": "https://www.healthygffamily.com/wp-content/uploads/2018/11/595A0FC4-3815-40A7-A70C-FAFB3EBC4174.jpg",
+"ingredients": ["Pecan", "Flour"],
+"steps": ["Mix Ingredients....", "Preheat Oven"],
+"date": "04/10/21"
+}]
 }
